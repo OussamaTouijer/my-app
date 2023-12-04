@@ -13,7 +13,7 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/home",
+    path: "/",
     element: <Home/>,
     errorElement: <h1>makayanch</h1>,
   },

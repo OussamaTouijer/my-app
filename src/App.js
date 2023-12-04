@@ -1,21 +1,10 @@
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+<section className="title">
+  <h1>Oussama Touijer</h1>
+  <h3>2001</h3>
+</section>
   );
 }
 

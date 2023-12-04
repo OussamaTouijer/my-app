@@ -1,7 +1,8 @@
+import React from 'react';
 
-function App() {
-  return (
-{/* <>
+const Html = () => {
+    return (
+<>
   <header className="hide-when-mobile">
     <h1>My app</h1>
     <ul className="flex">
@@ -132,14 +133,14 @@ function App() {
     </div>
   </header>
   <main>
-    HOME PAGE
+    HTML PAGE
   </main>
   <footer>
     Designed and developed by *************
     <span>🧡</span>
   </footer>
-</> */}
-  );
+</>
+    );
 }
 
-export default App;
+export default Html;
